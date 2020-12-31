@@ -1,0 +1,7 @@
+/target/
+/store_lock
+/.bsp/
+/logs/
+/certificates/
+/.idea/
+/neo4j-db-data/**
